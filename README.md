@@ -21,7 +21,8 @@ cd backend
 
 npm install
 
-Run the application
+# Run the application
+
 # Backend
 cd backend
 
