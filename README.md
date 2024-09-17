@@ -1,4 +1,4 @@
-Book Store MERN Stack Project
+# Book Store MERN Stack Project
 
 This project is a Book Store application built using the MERN (MongoDB, Express.js, React, Node.js) stack.
 
