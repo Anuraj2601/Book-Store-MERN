@@ -9,23 +9,27 @@ Database: MongoDB for storing book data
 
 Getting Started
 
-git clone https://github.com/your-repo/book-store-mern.git
+https://github.com/Anuraj2601/Book-Store-MERN.git
 
 # Frontend
 cd frontend
+
 npm install
 
 # Backend
 cd backend
+
 npm install
 
 Run the application
 # Backend
 cd backend
+
 npm start
 
 # Frontend
 cd frontend
+
 npm run dev
 
 
